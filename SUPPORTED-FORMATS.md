@@ -136,7 +136,7 @@ the [Analysis Parsers Library](https://github.com/jenkinsci/analysis-model/).
 | 116 | code-composer | tiCss() | ![Texas Instruments Code Composer Studio](plugin/src/main/webapp/icons/analysis.svg) ![Texas Instruments Code Composer Studio](plugin/src/main/webapp/icons/analysis.svg) | Texas Instruments Code Composer Studio |  |
 | 117 | tnsdl | tnsdl() | ![TNSDL Translator](plugin/src/main/webapp/icons/analysis.svg) ![TNSDL Translator](plugin/src/main/webapp/icons/analysis.svg) | TNSDL Translator |  |
 | 118 | tslint | tsLint() | ![TSLint  ](plugin/src/main/webapp/icons/analysis.svg) ![TSLint  ](plugin/src/main/webapp/icons/analysis.svg) | [TSLint  ](https://palantir.github.io/tslint/) |  |
-| 119 | diabc | diabC() | ![Wind River Diab Compiler (C/C++)](plugin/src/main/webapp/icons/analysis.svg) ![Wind River Diab Compiler (C/C++)](plugin/src/main/webapp/icons/analysis.svg) | Wind River Diab Compiler (C/C++) |  |
+| 119 | diabc | diabC() | ![Wind River Diab Compiler (C/C++)](plugin/src/main/webapp/icons/wind-river-systems-logo.png) ![Wind River Diab Compiler (C/C++)](plugin/src/main/webapp/icons/analysis.svg) | Wind River Diab Compiler (C/C++) |  |
 | 120 | xmllint | xmlLint() | ![XML-Lint](plugin/src/main/webapp/icons/analysis.svg) ![XML-Lint](plugin/src/main/webapp/icons/analysis.svg) | XML-Lint |  |
 | 121 | yamllint | yamlLint() | ![YamlLint](plugin/src/main/webapp/icons/analysis.svg) ![YamlLint](plugin/src/main/webapp/icons/analysis.svg) | [YamlLint](https://yamllint.readthedocs.io/) |  |
 | 122 | yui | yuiCompressor() | ![YUI Compressor](plugin/src/main/webapp/icons/analysis.svg) ![YUI Compressor](plugin/src/main/webapp/icons/analysis.svg) | YUI Compressor |  |
